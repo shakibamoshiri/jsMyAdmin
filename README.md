@@ -27,11 +27,11 @@
 
 
 <p align="center">
-  <img src="jsmyadmin.svg" /> <br> <br>
+  <img src="./res/jsmyadmin.svg" /> <br> <br>
   <strong>A simple web-app that with the help of:</strong><br><br>
   <img src="./res/js.svg" /> <br>
-  <img src="./res/html.svg" /> <br>
   <img src="./res/ajax.svg" /> <br>
+  <img src="./res/html.svg" /> <br>
   <img src="./res/css.svg" /> <br>
   <img src="./res/php.svg" /> <br>
   <img src="./res/json.svg" /> <br>
