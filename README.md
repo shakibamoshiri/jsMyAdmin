@@ -45,7 +45,6 @@
   &#9899; prerequisite
   &#9898; <a href="#commands">commands</a>
   &#9898; <a href="#screenshot">screenshot</a>
-  &#9898; <a href="#license">license</a>
   &#9898; <a href="#bottom">bottom</a>
   &#9898; <a href="#top">top</a>
 </p>
@@ -65,7 +64,6 @@
   &#9898; <a href="#prerequisite">prerequisite</a>
   &#9899; commands
   &#9898; <a href="#screenshot">screenshot</a>
-  &#9898; <a href="#license">license</a>
   &#9898; <a href="#bottom">bottom</a>
   &#9898; <a href="#top">top</a>
 </p>
@@ -77,7 +75,6 @@
   &#9898; <a href="#prerequisite">prerequisite</a>
   &#9898; <a href="#commands">commands</a>
   &#9899; screenshot
-  &#9898; <a href="#license">license</a>
   &#9898; <a href="#bottom">bottom</a>
   &#9898; <a href="#top">top</a>
 </p>
@@ -102,7 +99,6 @@ I think they could make it (their console) much much better than it is now, anyw
   &#9898; <a href="#prerequisite">prerequisite</a>
   &#9898; <a href="#commands">commands</a>
   &#9898; <a href="#screenshot">screenshot</a>
-  &#9899; license
   &#9899; bottom
   &#9898; <a href="#top">top</a>
 </p>
