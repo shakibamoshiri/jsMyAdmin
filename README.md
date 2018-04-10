@@ -31,14 +31,14 @@
   &#9898; <a href="#top">top</a>
 </p>
 
- 1. A font of `monospace` family. Default is: `'DejaVu Sans Mono', 'Source code variable', monospace`
-   - these two font are added to the repository, so you install them.
- 2. Modern Browsers which can support **CSS Animation**.
-   - have been tested on:
-     - Firefox
-     - Chrome
-     - Opera
-     - Vivaldi
+ - A font of `monospace` family. Default is: `'DejaVu Sans Mono', 'Source code variable', monospace`  
+   - these two font are added to the repository, so you install them.  
+ - Modern Browsers which can support **CSS Animation**.  
+   - have been tested on:  
+     - Firefox  
+     - Chrome  
+     - Opera  
+     - Vivaldi  
 
 <h1 id="commands" align="center">commands</h1>
 <p align="center">
@@ -88,7 +88,7 @@ I think they could make it (their console) much much better than it is now, anyw
 <p align="center">
   jsMyAdmin copyright &copy; 2018 Shakiba
   <br>
-  ▒█▀▄▀█ ▀█▀ ▀▀█▀▀
-  ▒█▒█▒█ ▒█░ ░▒█░░
-  ▒█░░▒█ ▄█▄ ░▒█░░
+  ▒█▀▄▀█ ▀█▀ ▀▀█▀▀<br>
+  ▒█▒█▒█ ▒█░ ░▒█░░<br>
+  ▒█░░▒█ ▄█▄ ░▒█░░<br>
 </p>
