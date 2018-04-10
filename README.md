@@ -1,7 +1,26 @@
 <br>
 <p id="top" align="center">
+  <a href="https://k-five.github.io/jsMyAdmin/">
+    <img src="./res/demo.svg" />
+  </a>
+  <a href="#prerequisite">
+    <img src="./res/prerequisite.svg" />
+  </a>
+  <a href="#commands">
+    <img src="./res/commands.svg" />
+  </a>
+  <a href="#screenshot">
+    <img src="./res/screenshot.svg" />
+  </a>
+  <a href="#bottom">
+    <img src="./res/bottom.svg" />
+  </a>
+  <a href="https://github.com/k-five/jsMyAdmin/blob/master/LICENSE">
+    <img src="./res/license.svg" />
+  </a>
 </p>
-
+<br>
+<br>
 <p align="center">
   <img src="./res/jsmyadmin.svg" /> <br> <br>
   <strong>A simple web-app that with the help of:</strong><br><br>
@@ -63,6 +82,8 @@
   &#9898; <a href="#top">top</a>
 </p>
 
+Here is **phpMyAdmin** screenshot for a query like: `select * from "table-name"`
+
 <img src="res/phpMyAdmin.png" />
 
 Some problems with **phpMyAdmin** (for me):
@@ -85,8 +106,9 @@ I think they could make it (their console) much much better than it is now, anyw
   &#9899; bottom
   &#9898; <a href="#top">top</a>
 </p>
-<p align="center">
+<p id="bottom" align="center">
   jsMyAdmin copyright &copy; 2018 Shakiba
+  <br>
   <br>
   ▒█▀▄▀█ ▀█▀ ▀▀█▀▀<br>
   ▒█▒█▒█ ▒█░ ░▒█░░<br>
