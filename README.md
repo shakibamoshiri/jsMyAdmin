@@ -31,6 +31,14 @@
   &#9898; <a href="#top">top</a>
 </p>
 
+ 1. A font of `monospace` family. Default is: `'DejaVu Sans Mono', 'Source code variable', monospace`
+   - these two font are added to the repository, so you install them.
+ 2. Modern Browsers which can support **CSS Animation**.
+   - have been tested on:
+     - Firefox
+     - Chrome
+     - Opera
+     - Vivaldi
 
 <h1 id="commands" align="center">commands</h1>
 <p align="center">
@@ -55,6 +63,17 @@
   &#9898; <a href="#top">top</a>
 </p>
 
+<img src="res/phpMyAdmin.png" />
+
+Some problems with **phpMyAdmin** (for me):
+ - command is at the bottom and result at the top whereas the opposite is the convention
+   - in a console or Terminal or Emulator we type from left-to-right and we will see the result from top-to-bottom
+   - after typing commands, output will be appeared/displayed below the commands not above it
+ - a lot of buttons and distractions around the query result which makes it hard to find and read data
+
+I think they could make it (their console) much much better than it is now, anyway, here is my view:
+
+<img src="res/jsMyAdmin.png" />
 
 <h1 id="license" align="center">license</h1>
 <p align="center">
@@ -65,4 +84,11 @@
   &#9899; license
   &#9899; bottom
   &#9898; <a href="#top">top</a>
+</p>
+<p align="center">
+  jsMyAdmin copyright &copy; 2018 Shakiba
+  <br>
+  ▒█▀▄▀█ ▀█▀ ▀▀█▀▀
+  ▒█▒█▒█ ▒█░ ░▒█░░
+  ▒█░░▒█ ▄█▄ ░▒█░░
 </p>
