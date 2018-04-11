@@ -1,0 +1,218 @@
+html
+{
+    /* background-color: #2C001E; */
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'DejaVu Sans Mono', 'Source code variable', monospace;
+    font-size: 15px;
+    color: #FFF;
+}
+
+span
+{
+    float: left;
+    white-space: pre;
+}
+
+.cursor
+{
+    /* it is vital to move the cursor */
+    position: relative;
+
+    bottom: -1px;
+    color: #FFF;
+    font-weight: bolder;
+    /* using: cubic-bezier( 0, 1, 0, 1) is the best choice for a cursor  */
+
+
+    animation: cursor 1s cubic-bezier( 0, 1, 0, 1 ) infinite;
+    /* Safari 4.0 - 8.0 */
+    -webkit-animation: cursor 1s cubic-bezier( 0, 1, 0, 1 ) infinite;
+}
+
+/* .cursor */
+/* { */
+/*     /\* it is vital to move the cursor *\/ */
+/*     position: relative; */
+
+/*     background-color: #FFF; */
+/*     /\* bottom: -1px *\/ */
+/*     /\* color: #0FF; *\/ */
+/*     /\* font-weight: bolder; *\/ */
+/*     /\* using: cubic-bezier( 0, 1, 0, 1) is the best choice for a cursor  *\/ */
+
+
+/*     animation: cursor 1s cubic-bezier( 0, 1, 0, 1 ) infinite; */
+/*     /\* Safari 4.0 - 8.0 *\/ */
+/*     -webkit-animation: cursor 1s cubic-bezier( 0, 1, 0, 1 ) infinite; */
+/* } */
+
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes cursor
+{
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes cursor
+{
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+#terminal
+{
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+}
+
+.row
+{
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+}
+
+.prompt
+{
+    /* color: #FF8C00; */
+    color: #0FF;
+}
+
+.readable
+{
+    color: #FFF;
+}
+.text
+{
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+}
+
+.media
+{
+    color: #F0F;
+}
+
+.sql-cmd
+{
+    color: #FF0;
+}
+.bash-cmd
+{
+    color: #0F0;
+}
+.sql-cmd2
+{
+    color: #F80;
+}
+.table-name
+{
+    color: #F0F;
+}
+
+.comment
+{
+    font-style: italic;
+    color: #AAA;
+}
+
+#guide
+{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 30px;
+    opacity: 0.5;
+}
+
+.json
+{
+    margin: 10px 0;
+    display: inline-block;
+}
+.table
+{
+    border-collapse: collapse;
+    text-align: left;
+    border: 1px  #AAA solid;
+}
+
+.failure
+{
+    color: #F00;
+}
+.success
+{
+    color: #0F0;
+}
+.note
+{
+    color: #FF0;
+    font-style: italic;
+}
+/* tr:nth-child(odd) */
+/* { */
+/*     background-color: #F80; */
+/* } */
+
+/* tr:nth-child(even) */
+/* { */
+/*     background-color: #F08; */
+/* } */
+
+tr:hover
+{
+    background-color: #F80;
+}
+
+.tr, td
+{
+    border: 1px  #AAA solid;
+    padding: 3px 9px;
+}
+
+.th
+{
+    color: #efe;
+    border: 1px  #AAA solid;
+    padding: 3px 9px;
+}
+
+#screen-character
+{
+    position: fixed;
+}
+
+/*********** copyright section ***********/
+#copyright
+{
+    position: fixed;
+    bottom: 0px;
+    right: 20px;
+}
+
+p#copyright
+{
+    opacity: 0.6;
+}
+
+p#copyright:hover
+{
+    opacity: 1;
+}
+
+sup a
+{
+    color: #FFF;
+}
+/*****************************************/
