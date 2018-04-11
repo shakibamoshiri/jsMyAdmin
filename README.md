@@ -68,6 +68,56 @@
   &#9898; <a href="#top">top</a>
 </p>
 
+<h3>Non-Sql commands:</h3>
+<table>
+    <tr>
+      <th>Name</th>
+      <th>Argument</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>df</td>
+      <td>No</td>
+      <td>dummy file-system report</td>
+    </tr>
+    <tr>
+      <td>date</td>
+      <td>No</td>
+      <td>print date in GMT</td>
+    </tr>
+    <tr>
+      <td>help</td>
+      <td>No</td>
+      <td>print (this) help</td>
+    </tr>
+    <tr>
+      <td>clear</td>
+      <td>No</td>
+      <td>clear the screen</td>
+    </tr>
+    <tr>
+      <td>history</td>
+      <td>No</td>
+      <td>print all entered commands</td>
+    </tr>
+    <tr>
+      <td>table</td>
+      <td>Yes: table-name</td>
+      <td>a shortcut for `select * from "table-name"`</td>
+    </tr>
+    <tr>
+      <td>BC=</td>
+      <td>Yes: hex-color</td>
+      <td>set/reset background color</td>
+    </tr>
+    <tr>
+      <td>FS=</td>
+      <td>Yes: a number</td>
+      <td>set/reset font size</td>
+    </tr>
+</table>
+<br>
+<br>
 
 <h1 id="screenshot" align="center">screenshot</h1>
 <p align="center">
