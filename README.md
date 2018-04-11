@@ -19,6 +19,7 @@
     <img src="./res/license.svg" />
   </a>
 </p>
+
 <br>
 <br>
 <p align="center">
@@ -36,9 +37,9 @@
   <strong>when you want to use a console-like</strong><br>
   <strong>app to deal with MySql or other databases.</strong><br>
 </p>
+
 <br>
-
-
+<br>
 <h1 id="prerequisite" align="center">prerequisite</h1>
 <p align="center">
   &#9898; <a href="https://k-five.github.io/jsMyAdmin/">demo</a>
@@ -48,12 +49,14 @@
   &#9898; <a href="#bottom">bottom</a>
   &#9898; <a href="#top">top</a>
 </p>
+<br>
 
  - A font of `monospace` family. Default is: `'DejaVu Sans Mono', 'Source code variable', monospace`  
    - these two font are added to the repository, so you install them.  
  - Modern Browsers which can support **CSS Animation**.  
 
-
+<br>
+<br>
 <h1 id="commands" align="center">commands</h1>
 <p align="center">
   &#9898; <a href="https://k-five.github.io/jsMyAdmin/">demo</a>
@@ -63,6 +66,7 @@
   &#9898; <a href="#bottom">bottom</a>
   &#9898; <a href="#top">top</a>
 </p>
+<br>
 
 <table>
     <tr>
@@ -111,6 +115,7 @@
       <td>set/reset font size</td>
     </tr>
 </table>
+<br>
 
 <h4>keystrokes:</h4>
 
@@ -133,7 +138,6 @@
 
 <br>
 <br>
-
 <h1 id="screenshot" align="center">screenshot</h1>
 <p align="center">
   &#9898; <a href="https://k-five.github.io/jsMyAdmin/">demo</a>
@@ -143,10 +147,13 @@
   &#9898; <a href="#bottom">bottom</a>
   &#9898; <a href="#top">top</a>
 </p>
+<br>
 
 Here is **phpMyAdmin** screenshot for a query like: `select * from "table-name"`
 
+<br>
 <img src="res/phpMyAdmin.png" />
+<br>
 
 Some problems with **phpMyAdmin** (for me):
  - command is at the bottom and result at the top whereas the opposite is the convention
@@ -156,8 +163,11 @@ Some problems with **phpMyAdmin** (for me):
 
 I think they could make it (their console) much much better than it is now, anyway, here is my view:
 
+<br>
 <img src="res/jsMyAdmin.png" />
 
+<br>
+<br>
 <h1 id="license" align="center">license</h1>
 <p align="center">
   &#9898; <a href="https://k-five.github.io/jsMyAdmin/">demo</a>
