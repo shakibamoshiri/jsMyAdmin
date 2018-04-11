@@ -52,11 +52,7 @@
  - A font of `monospace` family. Default is: `'DejaVu Sans Mono', 'Source code variable', monospace`  
    - these two font are added to the repository, so you install them.  
  - Modern Browsers which can support **CSS Animation**.  
-   - have been tested on:  
-     - Firefox  
-     - Chrome  
-     - Opera  
-     - Vivaldi  
+
 
 <h1 id="commands" align="center">commands</h1>
 <p align="center">
@@ -68,7 +64,6 @@
   &#9898; <a href="#top">top</a>
 </p>
 
-<h3>Non-Sql commands:</h3>
 <table>
     <tr>
       <th>Name</th>
@@ -116,6 +111,26 @@
       <td>set/reset font size</td>
     </tr>
 </table>
+
+<h4>keystrokes:</h4>
+
+ - Tab completion  
+ - Cursor movement  
+   - Home  
+   - End  
+   - Left-arrow  
+   - Right-arrow  
+ - History Navigation  
+   - Up-arrow  
+   - Down-arrow  
+ - Modify line  
+   - Backspace  
+   - Delete  
+ - Special Key  
+   - Alt  
+   - Ctrl  
+   - Shift  
+
 <br>
 <br>
 
