@@ -42,12 +42,12 @@
 <br>
 <h1 id="prerequisite" align="center">prerequisite</h1>
 <p align="center">
-  &#9898; <a href="https://k-five.github.io/jsMyAdmin/">demo</a>
-  &#9899; prerequisite
-  &#9898; <a href="#commands">commands</a>
-  &#9898; <a href="#screenshot">screenshot</a>
-  &#9898; <a href="#bottom">bottom</a>
-  &#9898; <a href="#top">top</a>
+  &#9634; <a href="https://k-five.github.io/jsMyAdmin/">demo</a>
+  &#9635; prerequisite
+  &#9634; <a href="#commands">commands</a>
+  &#9634; <a href="#screenshot">screenshot</a>
+  &#9634; <a href="#bottom">bottom</a>
+  &#9634; <a href="#top">top</a>
 </p>
 <br>
 
@@ -59,12 +59,12 @@
 <br>
 <h1 id="commands" align="center">commands</h1>
 <p align="center">
-  &#9898; <a href="https://k-five.github.io/jsMyAdmin/">demo</a>
-  &#9898; <a href="#prerequisite">prerequisite</a>
-  &#9899; commands
-  &#9898; <a href="#screenshot">screenshot</a>
-  &#9898; <a href="#bottom">bottom</a>
-  &#9898; <a href="#top">top</a>
+  &#9634; <a href="https://k-five.github.io/jsMyAdmin/">demo</a>
+  &#9634; <a href="#prerequisite">prerequisite</a>
+  &#9635; commands
+  &#9634; <a href="#screenshot">screenshot</a>
+  &#9634; <a href="#bottom">bottom</a>
+  &#9634; <a href="#top">top</a>
 </p>
 <br>
 
@@ -140,12 +140,12 @@
 <br>
 <h1 id="screenshot" align="center">screenshot</h1>
 <p align="center">
-  &#9898; <a href="https://k-five.github.io/jsMyAdmin/">demo</a>
-  &#9898; <a href="#prerequisite">prerequisite</a>
-  &#9898; <a href="#commands">commands</a>
-  &#9899; screenshot
-  &#9898; <a href="#bottom">bottom</a>
-  &#9898; <a href="#top">top</a>
+  &#9634; <a href="https://k-five.github.io/jsMyAdmin/">demo</a>
+  &#9634; <a href="#prerequisite">prerequisite</a>
+  &#9634; <a href="#commands">commands</a>
+  &#9635; screenshot
+  &#9634; <a href="#bottom">bottom</a>
+  &#9634; <a href="#top">top</a>
 </p>
 <br>
 
@@ -170,12 +170,12 @@ I think they could make it (their console) much much better than it is now, anyw
 <br>
 <h1 id="license" align="center">license</h1>
 <p align="center">
-  &#9898; <a href="https://k-five.github.io/jsMyAdmin/">demo</a>
-  &#9898; <a href="#prerequisite">prerequisite</a>
-  &#9898; <a href="#commands">commands</a>
-  &#9898; <a href="#screenshot">screenshot</a>
-  &#9899; bottom
-  &#9898; <a href="#top">top</a>
+  &#9634; <a href="https://k-five.github.io/jsMyAdmin/">demo</a>
+  &#9634; <a href="#prerequisite">prerequisite</a>
+  &#9634; <a href="#commands">commands</a>
+  &#9634; <a href="#screenshot">screenshot</a>
+  &#9635; bottom
+  &#9634; <a href="#top">top</a>
 </p>
 <p id="bottom" align="center">
   jsMyAdmin copyright &copy; 2018 Shakiba
